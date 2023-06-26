@@ -1,0 +1,3 @@
+[submodule "URDFParser"]
+	path = URDFParser
+	url = git@github.com:robot-acceleration/URDFParser.git
