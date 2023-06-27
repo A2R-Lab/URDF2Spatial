@@ -2,7 +2,7 @@
 
 A repo for transforming a URDF into matlab for testing purposes. There are also testing scripts that creates a test file in matlab when given a URDF file, with associated files(FDab.m and HandC.m) that should be in Matlab when running the script.
 
-For empty submodules like URDFParser, use the command: ```git submodule update --init --recursive``
+For empty submodules like URDFParser, use the command: ```git submodule update --init --recursive```
 
 Note: This repo does not come with URDF files and those must be added for the code to run.
 
