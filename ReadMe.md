@@ -1,6 +1,6 @@
 #URDF2Spatial
 
-A repo for transforming a URDF into matlab for testing purposes. There are also testing scripts that creates a test file in matlab when given a URDF file, with associated.
+A repo for transforming a URDF into matlab for testing purposes. There are also testing scripts that creates a test file in matlab when given a URDF file, with associated files.
 
 For empty submodules like URDFParser, use the command: ```git submodule update --init --recursive``
 
