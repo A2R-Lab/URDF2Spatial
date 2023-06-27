@@ -1,6 +1,6 @@
 #URDF2Spatial
 
-A repo for transforming a URDF into matlab for testing purposes. There are also testing scripts that creates a test file in matlab when given a URDF file, with associated files.
+A repo for transforming a URDF into matlab for testing purposes. There are also testing scripts that creates a test file in matlab when given a URDF file, with associated files(FDab.m and HandC.m) that should be in Matlab when running the script.
 
 For empty submodules like URDFParser, use the command: ```git submodule update --init --recursive``
 
@@ -10,4 +10,4 @@ Commands for Running:
 
 For running the URDF Matlab Generator:```python3 generateSpatialModel.py PATH_TO_URDF```
 
-For running the testing script:```python3 testing/matTestGen.py PATH_TO_URDF ```
+For running the testing script:```python3 matTestGen.py PATH_TO_URDF ```
